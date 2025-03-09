@@ -8,10 +8,9 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="https://www.linkedin.com/in/meherremli/"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
-</div>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/elxan-meherremli-a75a06301/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="https://www.linkedin.com/in/elxan-meherremli-a75a06301/" height="30" width="40" /></a>
+  <a href="https://instagram.com/https://www.instagram.com/elxanmeherremli_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="https://www.instagram.com/elxanmeherremli_/" height="30" width="40" /></a>
+ <a href="https://instagram.com/https://www.instagram.com/elxanmeherremli_/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="https://www.instagram.com/elxanmeherremli_/" height="30" width="40" /></a></div>
 
 ###
 
