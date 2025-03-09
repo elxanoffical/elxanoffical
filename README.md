@@ -8,7 +8,6 @@
 
 ###
 
-<p align="left">My name is Elkhan and I'm a Frontend developer, from Baku, Azerbaijan</p>
 
 ###
 
