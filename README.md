@@ -3,7 +3,7 @@
 
 ###
 
-<h2 align="left">About me:<br> <br>Hello, I'm Elxan Meherremli – a frontend developer from Azerbaijan. I mix the rich history of my homeland with modern web development to create engaging web experiences. I see each project as a chance to tell a story through code and design. I work on building clear and attractive interfaces using the latest JavaScript tools.</h2>
+<h3 align="left">About me:<br> <br>Hello, I'm Elxan Meherremli – a frontend developer from Azerbaijan. I mix the rich history of my homeland with modern web development to create engaging web experiences. I see each project as a chance to tell a story through code and design. I work on building clear and attractive interfaces using the latest JavaScript tools.</h3>
 
 ###
 
@@ -77,5 +77,3 @@
 </picture>
 
 ###
-
-
