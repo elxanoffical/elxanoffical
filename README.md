@@ -14,11 +14,9 @@
 
 ###
 
-<p align="left">✨ Creating bugs since I wrote my first line of code  <br>📚 I'm currently learning new web technologies and improving my UI/UX design skills  <br>🎯 Goals: To build innovative, accessible, and interactive digital experiences  <br>🎲 Fun fact: I draw inspiration from Azerbaijan's rich culture, where tradition meets modern innovation  <br><br>🚀 I'm passionate about learning and trying new frameworks  <br>🔍 I'm always looking for ways to improve user experience and design  <br>🤝 I'm open to collaboration and enjoy working on community projects  <br>🌍 Proudly based in Azerbaijan, I blend my heritage with modern tech creativity</p>
-
+<p align="left">✨ Creating bugs since I wrote my first line of code  <br>📚 I'm currently learning new web technologies and improving my UI/UX design skills  <br>🚀 I'm passionate about learning and trying new frameworks  <br>🔍 I'm always looking for ways to improve user experience and design  <br>🤝 I'm open to collaboration and enjoy working on community projects 
 ###
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"  />
 
 ###
 
@@ -55,25 +53,11 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=elxanoffical&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elxanoffical&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=elxanoffical&theme=dracula&column=-1&row=1&margin-w=7&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elxanoffical&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=true" height="300" alt="activity-graph graph"  />
+ 
 </div>
 
 ###
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+
 
 ###
